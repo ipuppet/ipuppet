@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=ipuppet&show_icons=true)](https://github.com/ipuppet)
+![Stats](./profile/stats.svg)
