@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Stats](./profile/stats.svg)
+[![Samuel's GitHub stats](https://github-stats-extended.vercel.app/api?username=ipuppet)](https://github.com/stats-organization/github-stats-extended)
